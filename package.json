@@ -1,0 +1,17 @@
+{
+  "name": "anymap",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "jade": "*",
+    "passport": ">= 0.0.0",
+    "passport-facebook": ">= 0.0.0",
+    "passport-twitter": ">= 0.0.0",
+    "passport-google-oauth": ">= 0.0.0"
+  },
+  "engines": {"node": "0.6.22 || 0.8.x"}
+}

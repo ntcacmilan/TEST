@@ -19,10 +19,10 @@ var FACEBOOK_APP_SECRET = "bad256eab00c4ed73b0a296dfa2eeddc";
 var FACEBOOK_CALLBACK = SERVER + "auth/facebook/callback";
 var TWITTER_CONSUMER_KEY = "QPfF5l7P9VefiZDFcpSCow";
 var TWITTER_CONSUMER_SECRET = "cn7t91hGQ78ldeGRSE8h6e9k9NSbfkJ0K0HNUeBm4";
-var TWITTER_CALLBACK = SERVER + "/auth/twitter/callback";
+var TWITTER_CALLBACK = SERVER + "auth/twitter/callback";
 var GOOGLE_CLIENT_ID = "312966742093.apps.googleusercontent.com";
 var GOOGLE_CLIENT_SECRET = "PzfvfuCEt91fWlKyzG030UjV";
-var GOOGLE_CALLBACK = SERVER + "/auth/google/callback";
+var GOOGLE_CALLBACK = SERVER + "auth/google/callback";
 
 // Passport session setup.
 //   To support persistent login sessions, Passport needs to be able to

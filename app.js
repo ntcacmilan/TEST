@@ -14,6 +14,9 @@ var express = require('express')
 
 var SERVER = "http://test-anymap.azurewebsites.net/";
 //var SERVER = "http://127.0.0.1:3000/";
+//https://developers.facebook.com/apps
+//https://dev.twitter.com/
+//code.google.com/apis/console
 var FACEBOOK_APP_ID = "484741244941247";
 var FACEBOOK_APP_SECRET = "bad256eab00c4ed73b0a296dfa2eeddc";
 var FACEBOOK_CALLBACK = SERVER + "auth/facebook/callback";
